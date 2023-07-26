@@ -2,9 +2,10 @@
 React and Redux Project
 
 Libraires to be installed:
-npm i
-npm i eslint vite-plugin-eslint eslint-config-react-app --save-dev
-npm i react-router-dom@6
-npm install -D tailwindcss@3 postcss autoprefixer
-npx tailwindcss init -p
-npm i @reduxjs/toolkit react-redux
+
+1.npm i
+2.npm i eslint vite-plugin-eslint eslint-config-react-app --save-dev
+3.npm i react-router-dom@6
+4.npm install -D tailwindcss@3 postcss autoprefixer
+5.npx tailwindcss init -p
+6.npm i @reduxjs/toolkit react-redux
