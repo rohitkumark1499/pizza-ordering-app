@@ -9,3 +9,9 @@ Libraires to be installed:
 4.npm install -D tailwindcss@3 postcss autoprefixer \
 5.npx tailwindcss init -p \
 6.npm i @reduxjs/toolkit react-redux \
+
+
+https://pizza-ordering-app-1499.netlify.app/
+
+
+https://pizza-ordering-app-sage.vercel.app/
